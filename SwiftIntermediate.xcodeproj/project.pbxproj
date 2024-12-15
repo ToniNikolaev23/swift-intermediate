@@ -19,6 +19,7 @@
 		B5C3D7152D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7142D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift */; };
 		B5C3D7172D0F672F00BD6C5A /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */; };
 		B5C3D7192D0F6B0200BD6C5A /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7182D0F6B0200BD6C5A /* MultipleSheetsBootcamp.swift */; };
+		B5C3D71B2D0F6F9500BD6C5A /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D71A2D0F6F9500BD6C5A /* MaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		B5C3D7142D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D7182D0F6B0200BD6C5A /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		B5C3D71A2D0F6F9500BD6C5A /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				B5C3D7122D0F1CD800BD6C5A /* DragGestureBootcamp2.swift */,
 				B5C3D7142D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift */,
 				B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */,
+				B5C3D71A2D0F6F9500BD6C5A /* MaskBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5C3D7132D0F1CD800BD6C5A /* DragGestureBootcamp2.swift in Sources */,
+				B5C3D71B2D0F6F9500BD6C5A /* MaskBootcamp.swift in Sources */,
 				B5C3D7112D0F156600BD6C5A /* DragGestureBootcamp.swift in Sources */,
 				B5C3D6FF2D0EF25C00BD6C5A /* ContentView.swift in Sources */,
 				B5C3D7152D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift in Sources */,
