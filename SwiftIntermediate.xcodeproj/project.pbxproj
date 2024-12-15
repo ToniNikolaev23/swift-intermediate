@@ -13,6 +13,7 @@
 		B5C3D7042D0EF25D00BD6C5A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5C3D7032D0EF25D00BD6C5A /* Preview Assets.xcassets */; };
 		B5C3D70B2D0EF3AE00BD6C5A /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D70A2D0EF3AE00BD6C5A /* LongPressGestureBootcamp.swift */; };
 		B5C3D70D2D0EF79200BD6C5A /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D70C2D0EF79200BD6C5A /* MagnificationGestureBootcamp.swift */; };
+		B5C3D70F2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D70E2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B5C3D7032D0EF25D00BD6C5A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B5C3D70A2D0EF3AE00BD6C5A /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D70C2D0EF79200BD6C5A /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
+		B5C3D70E2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B5C3D7022D0EF25D00BD6C5A /* Preview Content */,
 				B5C3D70A2D0EF3AE00BD6C5A /* LongPressGestureBootcamp.swift */,
 				B5C3D70C2D0EF79200BD6C5A /* MagnificationGestureBootcamp.swift */,
+				B5C3D70E2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				B5C3D6FD2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift in Sources */,
 				B5C3D70D2D0EF79200BD6C5A /* MagnificationGestureBootcamp.swift in Sources */,
 				B5C3D70B2D0EF3AE00BD6C5A /* LongPressGestureBootcamp.swift in Sources */,
+				B5C3D70F2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
