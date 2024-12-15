@@ -17,6 +17,7 @@
 		B5C3D7112D0F156600BD6C5A /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7102D0F156600BD6C5A /* DragGestureBootcamp.swift */; };
 		B5C3D7132D0F1CD800BD6C5A /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7122D0F1CD800BD6C5A /* DragGestureBootcamp2.swift */; };
 		B5C3D7152D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7142D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift */; };
+		B5C3D7172D0F672F00BD6C5A /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B5C3D7102D0F156600BD6C5A /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D7122D0F1CD800BD6C5A /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		B5C3D7142D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
+		B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				B5C3D7102D0F156600BD6C5A /* DragGestureBootcamp.swift */,
 				B5C3D7122D0F1CD800BD6C5A /* DragGestureBootcamp2.swift */,
 				B5C3D7142D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift */,
+				B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				B5C3D7152D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift in Sources */,
 				B5C3D6FD2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift in Sources */,
 				B5C3D70D2D0EF79200BD6C5A /* MagnificationGestureBootcamp.swift in Sources */,
+				B5C3D7172D0F672F00BD6C5A /* GeometryReaderBootcamp.swift in Sources */,
 				B5C3D70B2D0EF3AE00BD6C5A /* LongPressGestureBootcamp.swift in Sources */,
 				B5C3D70F2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift in Sources */,
 			);
