@@ -20,6 +20,9 @@
 		B5C3D7172D0F672F00BD6C5A /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */; };
 		B5C3D7192D0F6B0200BD6C5A /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7182D0F6B0200BD6C5A /* MultipleSheetsBootcamp.swift */; };
 		B5C3D71B2D0F6F9500BD6C5A /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D71A2D0F6F9500BD6C5A /* MaskBootcamp.swift */; };
+		B5C3D71D2D0F72B000BD6C5A /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D71C2D0F72B000BD6C5A /* SoundsBootcamp.swift */; };
+		B5C3D7202D0F74A300BD6C5A /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5C3D71F2D0F74A300BD6C5A /* badum.mp3 */; };
+		B5C3D7222D0F74A900BD6C5A /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5C3D7212D0F74A900BD6C5A /* tada.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,9 @@
 		B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D7182D0F6B0200BD6C5A /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D71A2D0F6F9500BD6C5A /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		B5C3D71C2D0F72B000BD6C5A /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
+		B5C3D71F2D0F74A300BD6C5A /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = badum.mp3; path = ../../../../../../Downloads/badum.mp3; sourceTree = "<group>"; };
+		B5C3D7212D0F74A900BD6C5A /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = tada.mp3; path = "../../../../../../Downloads/tada-sound/tada.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +85,8 @@
 				B5C3D70E2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift */,
 				B5C3D7102D0F156600BD6C5A /* DragGestureBootcamp.swift */,
 				B5C3D7122D0F1CD800BD6C5A /* DragGestureBootcamp2.swift */,
+				B5C3D71C2D0F72B000BD6C5A /* SoundsBootcamp.swift */,
+				B5C3D71E2D0F749800BD6C5A /* Sounds */,
 				B5C3D7142D0F633B00BD6C5A /* ScrollViewReaderBootcamp.swift */,
 				B5C3D7162D0F672F00BD6C5A /* GeometryReaderBootcamp.swift */,
 				B5C3D71A2D0F6F9500BD6C5A /* MaskBootcamp.swift */,
@@ -92,6 +100,15 @@
 				B5C3D7032D0EF25D00BD6C5A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B5C3D71E2D0F749800BD6C5A /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				B5C3D7212D0F74A900BD6C5A /* tada.mp3 */,
+				B5C3D71F2D0F74A300BD6C5A /* badum.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,6 +169,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5C3D7222D0F74A900BD6C5A /* tada.mp3 in Resources */,
+				B5C3D7202D0F74A300BD6C5A /* badum.mp3 in Resources */,
 				B5C3D7042D0EF25D00BD6C5A /* Preview Assets.xcassets in Resources */,
 				B5C3D7012D0EF25D00BD6C5A /* Assets.xcassets in Resources */,
 			);
@@ -164,6 +183,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5C3D71D2D0F72B000BD6C5A /* SoundsBootcamp.swift in Sources */,
 				B5C3D7132D0F1CD800BD6C5A /* DragGestureBootcamp2.swift in Sources */,
 				B5C3D71B2D0F6F9500BD6C5A /* MaskBootcamp.swift in Sources */,
 				B5C3D7112D0F156600BD6C5A /* DragGestureBootcamp.swift in Sources */,
