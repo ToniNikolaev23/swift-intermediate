@@ -24,6 +24,7 @@
 		B5C3D7202D0F74A300BD6C5A /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5C3D71F2D0F74A300BD6C5A /* badum.mp3 */; };
 		B5C3D7222D0F74A900BD6C5A /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5C3D7212D0F74A900BD6C5A /* tada.mp3 */; };
 		B5C3D7242D0F75DC00BD6C5A /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7232D0F75DC00BD6C5A /* HapticsBootcamp.swift */; };
+		B5C3D7262D10037200BD6C5A /* LocalNotificationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D7252D10037200BD6C5A /* LocalNotificationsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		B5C3D71F2D0F74A300BD6C5A /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = badum.mp3; path = ../../../../../../Downloads/badum.mp3; sourceTree = "<group>"; };
 		B5C3D7212D0F74A900BD6C5A /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = tada.mp3; path = "../../../../../../Downloads/tada-sound/tada.mp3"; sourceTree = "<group>"; };
 		B5C3D7232D0F75DC00BD6C5A /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
+		B5C3D7252D10037200BD6C5A /* LocalNotificationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				B5C3D70C2D0EF79200BD6C5A /* MagnificationGestureBootcamp.swift */,
 				B5C3D70E2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift */,
 				B5C3D7102D0F156600BD6C5A /* DragGestureBootcamp.swift */,
+				B5C3D7252D10037200BD6C5A /* LocalNotificationsBootcamp.swift */,
 				B5C3D7232D0F75DC00BD6C5A /* HapticsBootcamp.swift */,
 				B5C3D7122D0F1CD800BD6C5A /* DragGestureBootcamp2.swift */,
 				B5C3D71C2D0F72B000BD6C5A /* SoundsBootcamp.swift */,
@@ -188,6 +191,7 @@
 			files = (
 				B5C3D71D2D0F72B000BD6C5A /* SoundsBootcamp.swift in Sources */,
 				B5C3D7132D0F1CD800BD6C5A /* DragGestureBootcamp2.swift in Sources */,
+				B5C3D7262D10037200BD6C5A /* LocalNotificationsBootcamp.swift in Sources */,
 				B5C3D71B2D0F6F9500BD6C5A /* MaskBootcamp.swift in Sources */,
 				B5C3D7112D0F156600BD6C5A /* DragGestureBootcamp.swift in Sources */,
 				B5C3D6FF2D0EF25C00BD6C5A /* ContentView.swift in Sources */,
