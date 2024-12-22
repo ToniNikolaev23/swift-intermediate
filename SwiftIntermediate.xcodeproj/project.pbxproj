@@ -17,6 +17,7 @@
 		B58B331F2D12B10100ADB39C /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B331E2D12B10100ADB39C /* TimerBootcamp.swift */; };
 		B58B33212D12BA2A00ADB39C /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33202D12BA2A00ADB39C /* SubscriberBootcamp.swift */; };
 		B58B33232D184CCB00ADB39C /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33222D184CCB00ADB39C /* FileManagerBootcamp.swift */; };
+		B58B33252D1888F400ADB39C /* CacheBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33242D1888F400ADB39C /* CacheBootcamp.swift */; };
 		B5C3D6FD2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D6FC2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift */; };
 		B5C3D6FF2D0EF25C00BD6C5A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D6FE2D0EF25C00BD6C5A /* ContentView.swift */; };
 		B5C3D7012D0EF25D00BD6C5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5C3D7002D0EF25D00BD6C5A /* Assets.xcassets */; };
@@ -54,6 +55,7 @@
 		B58B331E2D12B10100ADB39C /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		B58B33202D12BA2A00ADB39C /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 		B58B33222D184CCB00ADB39C /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
+		B58B33242D1888F400ADB39C /* CacheBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D6F92D0EF25C00BD6C5A /* SwiftIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5C3D6FC2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIntermediateApp.swift; sourceTree = "<group>"; };
 		B5C3D6FE2D0EF25C00BD6C5A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				B5C3D7272D1008B600BD6C5A /* HashableBootcamp.swift */,
 				B58B33102D1157C500ADB39C /* BackgroundThreadBootcamp.swift */,
 				B5C3D74F2D10BD4000BD6C5A /* CoreDataRelationshipsBootcamp.swift */,
+				B58B33242D1888F400ADB39C /* CacheBootcamp.swift */,
 				B58B33122D115C6C00ADB39C /* WeakSelfBootcamp.swift */,
 				B58B331C2D12A94700ADB39C /* DownloadWithCombine.swift */,
 				B5C3D7232D0F75DC00BD6C5A /* HapticsBootcamp.swift */,
@@ -241,6 +244,7 @@
 				B5C3D74E2D10257B00BD6C5A /* FruitsContainer.xcdatamodeld in Sources */,
 				B58B331D2D12A94700ADB39C /* DownloadWithCombine.swift in Sources */,
 				B5C3D7282D1008B600BD6C5A /* HashableBootcamp.swift in Sources */,
+				B58B33252D1888F400ADB39C /* CacheBootcamp.swift in Sources */,
 				B5C3D71D2D0F72B000BD6C5A /* SoundsBootcamp.swift in Sources */,
 				B58B33112D1157C500ADB39C /* BackgroundThreadBootcamp.swift in Sources */,
 				B58B33232D184CCB00ADB39C /* FileManagerBootcamp.swift in Sources */,
