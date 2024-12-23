@@ -28,6 +28,7 @@
 		B58B333B2D1973E100ADB39C /* PhotoModelCacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B333A2D1973E100ADB39C /* PhotoModelCacheManager.swift */; };
 		B58B333D2D1974A200ADB39C /* PhotoModelFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B333C2D1974A200ADB39C /* PhotoModelFileManager.swift */; };
 		B58B333F2D197EB200ADB39C /* AccessibilityTextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B333E2D197EB200ADB39C /* AccessibilityTextBootcamp.swift */; };
+		B58B33412D198B5100ADB39C /* AccessibilityColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58B33402D198B5100ADB39C /* AccessibilityColorsBootcamp.swift */; };
 		B5C3D6FD2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D6FC2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift */; };
 		B5C3D6FF2D0EF25C00BD6C5A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3D6FE2D0EF25C00BD6C5A /* ContentView.swift */; };
 		B5C3D7012D0EF25D00BD6C5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5C3D7002D0EF25D00BD6C5A /* Assets.xcassets */; };
@@ -76,6 +77,7 @@
 		B58B333A2D1973E100ADB39C /* PhotoModelCacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModelCacheManager.swift; sourceTree = "<group>"; };
 		B58B333C2D1974A200ADB39C /* PhotoModelFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoModelFileManager.swift; sourceTree = "<group>"; };
 		B58B333E2D197EB200ADB39C /* AccessibilityTextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityTextBootcamp.swift; sourceTree = "<group>"; };
+		B58B33402D198B5100ADB39C /* AccessibilityColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityColorsBootcamp.swift; sourceTree = "<group>"; };
 		B5C3D6F92D0EF25C00BD6C5A /* SwiftIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5C3D6FC2D0EF25C00BD6C5A /* SwiftIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIntermediateApp.swift; sourceTree = "<group>"; };
 		B5C3D6FE2D0EF25C00BD6C5A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -195,6 +197,7 @@
 				B58B33222D184CCB00ADB39C /* FileManagerBootcamp.swift */,
 				B5C3D7252D10037200BD6C5A /* LocalNotificationsBootcamp.swift */,
 				B58B331A2D1228F300ADB39C /* DownloadWithEscapingBootcamp.swift */,
+				B58B33402D198B5100ADB39C /* AccessibilityColorsBootcamp.swift */,
 				B5C3D74A2D1023E200BD6C5A /* CoreDataBootcamp.swift */,
 				B58B333E2D197EB200ADB39C /* AccessibilityTextBootcamp.swift */,
 				B58B33182D121CDC00ADB39C /* CodableBootcamp.swift */,
@@ -349,6 +352,7 @@
 				B5C3D7502D10BD4000BD6C5A /* CoreDataRelationshipsBootcamp.swift in Sources */,
 				B58B332F2D19678900ADB39C /* PhotoModel.swift in Sources */,
 				B58B33372D196D5800ADB39C /* DownloadingImageView.swift in Sources */,
+				B58B33412D198B5100ADB39C /* AccessibilityColorsBootcamp.swift in Sources */,
 				B5C3D70B2D0EF3AE00BD6C5A /* LongPressGestureBootcamp.swift in Sources */,
 				B5C3D70F2D0EFACF00BD6C5A /* RotationGestureBootcamp.swift in Sources */,
 			);
